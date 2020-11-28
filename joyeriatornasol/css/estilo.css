@@ -1,0 +1,77 @@
+body{
+    background: url(../imagenes/gris.jpg);
+
+}
+.contenedor {
+width: 1000px;
+background: rgb(235, 218, 236);
+margin: auto;
+border-radius: 0px;
+font-family: "cocogoose";
+background-position: center;
+
+
+}
+ .cabecera{
+        color: #ffffff;
+        text-align: center;
+        font-style: verdana
+       
+    }
+    
+    .cabecera img {
+        margin-left: 10px;
+
+    }
+
+    .top {
+        margin-top: 20px;
+        vertical-align: top;
+    }
+    .menu {
+        float: right;
+    
+    }
+    .menu li {
+        display: inline-block;
+    }
+    .menu a{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        padding: 18px;
+        font-style: inherit;
+    }
+    .menu a:hover {
+        background-color: rgb(67, 0, 93);
+        
+    }
+    .col {
+
+    width: 275px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+    padding: 35px;
+    font-style: verdana;
+    }
+    .row {
+        text-align: center;
+        
+
+    }
+    .footer {
+        overflow: hidden;
+        
+
+    }
+.footer a{
+    color: rgb(228, 228, 228);
+    text-decoration: none;
+    font-style: verdana;
+
+}
+.creditos{
+    text-align: center;
+    color: #490541;
+    
+}
